@@ -53,7 +53,7 @@ Clone [Rhyeals key rotator](https://github.com/rhyeal/aws-rotate-iam-keys), and 
 ### Create Helper functions
 Add the helper functions to your `.bashrc` (or `.zshrc` etc.)
 
-####~/.bashrc
+#### ~/.bashrc
 ```
 # Funcs
   gac_for_win()
