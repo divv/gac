@@ -99,7 +99,7 @@ The variables are set automatically, and no feedback is printed unless there is 
 ```
     user@host:~> gac_for_win account_name_dev
     Enter MFA code for arn:aws:iam::xxxxxxxxxxxx:mfa/user.name:
-    Keys and token for profile: 'accuont_name_dev'
+    Keys and token for profile: 'account_name_dev'
     Paste the following into your shell:
 
     $env:AWS_ACCESS_KEY_ID="<access_key>" 
