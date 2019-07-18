@@ -31,14 +31,12 @@ Create/edit your credentials file: `vim ~/.aws/credentials`
 
     [account_name_dev]
     source_profile = default
-    role_arn = 
-    arn:aws:iam::xxxxxxxxxxxx:role/<role_name>
+    role_arn = arn:aws:iam::xxxxxxxxxxxx:role/<role_name>
     mfa_serial = arn:aws:iam::xxxxxxxxxxxx:mfa/<iam_user_name>
 
     [account_name_prod]
     source_profile = default
-    role_arn = 
-    arn:aws:iam::xxxxxxxxxxxx:role/<role_name>
+    role_arn = arn:aws:iam::xxxxxxxxxxxx:role/<role_name>
     mfa_serial = arn:aws:iam::xxxxxxxxxxxx:mfa/<iam_user_name>
 ```
 
